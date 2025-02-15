@@ -1,0 +1,1 @@
+print ("There is a new thing in the shop in hobby lobby")
